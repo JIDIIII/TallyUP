@@ -46,7 +46,3 @@ LogView.swift	Detailed transaction history with advanced filtering and CSV expor
 ScannerView.swift	UI and logic for the document camera and text recognition.
 AuthView.swift	A unified container for the login/signup experience with edge-swipe gestures.
 AccountView.swift	User profile management including Firestore-synced personal details and profile photo processing.
-
-# App Photos
-![Uploading Screenshot 2026-03-05 at 12.01.55 PM.png…]()
-
